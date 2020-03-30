@@ -58,7 +58,17 @@ Opens the windows *Run* dialog. Any text entered via the keyboard (other than in
 
 #### Command input and output
 
+**`dir`**
 
+    Volume in drive C has no label.
+    Volume Serial Number is 8879-B81C
+
+    Directory of C:\Users\bartonc\OneDrive
+
+    06/24/2019  02:22 PM    <DIR>          .
+    06/24/2019  02:22 PM    <DIR>          ..
+                0 File(s)              0 bytes
+                2 Dir(s)  66,543,652,864 bytes free
 
 
 ## Networking
