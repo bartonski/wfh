@@ -9,7 +9,7 @@
 
 ##### Individual keys
 
-Individual keystrokes are illustrated in a rounded box for example <kbd>F</kbd> indicates that you should press the 'F' key.
+Individual keystrokes are illustrated in a rounded box. For example <kbd>F</kbd> indicates that you should press the 'F' key.
 
 ##### The Windows key
 
@@ -33,7 +33,11 @@ Sometimes keyboard combinations are followed by other keys, e.g.
 
 <kbd>&#x229e; Win</kbd>+<kbd>X</kbd> <kbd>E</kbd>
 
-Means press and hold <kbd>&#x229e; Win</kbd> press <kbd>X</kbd> and release both keys. *Then* press <kbd>E</kbd>. This looks complicated when written out, but isn't hard when you actually type it.
+Note that there is no `+` betwen <kbd>X</kbd> and <kbd>E</kbd>.
+
+This means press and hold <kbd>&#x229e; Win</kbd> press <kbd>X</kbd>
+and release both keys. *Then* press <kbd>E</kbd>. This looks complicated
+when written out, but isn't hard when you actually type it.
 
 ##### Useful keyboard shortcuts
 
@@ -49,14 +53,17 @@ The keyboard shortcut
 
 Opens the windows *Run* dialog. Any text entered via the keyboard (other than inidvidual keystrokes or key combinations) will be showin in fixed width bold, **`Like this`**.  
 
-* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`cmd`** -- Windows (MS-DOS) style command screen.
-* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control`** -- Control panel
-* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control system`** -- System information
-* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control printers`** -- Devices and printers control panel.
-* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`ncpa.cpl`** -- Network devices control panel
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`cmd`** -- Open Windows (MS-DOS) style command screen.
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control`** -- Open Windows control panel
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control system`** -- Open system information
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control printers`** -- Open devices and printers control panel.
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`ncpa.cpl`** -- Open network devices control panel
 
+#### Windows `cmd` input and ouptut
 
-#### Command input and output
+when you open a windows `cmd` window using <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`cmd`**,
+
+Text entered via the keyboard will be showin in **`fixed width bold`**. Output will be `fixed width, but not bold`. 
 
 **`dir`**
 
@@ -69,7 +76,6 @@ Opens the windows *Run* dialog. Any text entered via the keyboard (other than in
     06/24/2019  02:22 PM    <DIR>          ..
                 0 File(s)              0 bytes
                 2 Dir(s)  66,543,652,864 bytes free
-
 
 ## Networking
 
