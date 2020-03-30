@@ -47,7 +47,14 @@ The keyboard shortcut
 
 <kbd>&#x229e; Win</kbd>+<kbd>R</kbd>
 
-Opens the windows *Run* dialog. Any text entered via the keyboard (other than inidvidual keystrokes or key combinations) will be showin in fixed width bold, **`Like this`**.
+Opens the windows *Run* dialog. Any text entered via the keyboard (other than inidvidual keystrokes or key combinations) will be showin in fixed width bold, **`Like this`**.  
+
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`cmd`** -- Windows (MS-DOS) style command screen.
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control`** -- Control panel
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control system`** -- System information
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`control printers`** -- Devices and printers control panel.
+* <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> **`ncpa.cpl`** -- Network devices control panel
+
 
 #### Command input and output
 
