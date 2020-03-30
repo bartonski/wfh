@@ -65,6 +65,18 @@ when you open a windows `cmd` window using <kbd>&#x229e; Win</kbd>+<kbd>R</kbd> 
 
 Text entered via the keyboard will be showin in **`fixed width bold`**. Output will be `fixed width, but not bold`. 
 
+**`dir`**
+
+    Volume in drive C has no label.
+    Volume Serial Number is 8879-B81C
+
+    Directory of C:\Users\bartonc\OneDrive
+
+    06/24/2019  02:22 PM    <DIR>          .
+    06/24/2019  02:22 PM    <DIR>          ..
+                0 File(s)              0 bytes
+                2 Dir(s)  66,543,652,864 bytes free
+
 ## Networking
 
 ### Tools
