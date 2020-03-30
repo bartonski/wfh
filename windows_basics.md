@@ -13,7 +13,8 @@ Individual keystrokes are illustrated in a rounded box for example <kbd>F</kbd> 
 
 ##### The Windows key
 
-The Windows key is typically located between <kbd>Ctrl</kbd> and <kbd>Alt</kbd> is shown as
+The Windows key is typically located between <kbd>Ctrl</kbd> and
+<kbd>Alt</kbd>, and is shown as
 
 <kbd>&#x229e; Win</kbd>
 
@@ -40,7 +41,13 @@ Means press and hold <kbd>&#x229e; Win</kbd> press <kbd>X</kbd> and release both
 * <kbd>&#x229e; Win</kbd>+<kbd>X</kbd> -- This is the same as right-clicking on <kbd>&#x229e; Win</kbd>; there are a number of useful tools (with corresponding keyboard shortcuts) under this menu.
 * <kbd>&#x229e; Win</kbd>+<kbd>X</kbd> <kbd>E</kbd> -- File explorer.
 
+##### Windows 'Run' commands
 
+The keyboard shortcut
+
+<kbd>&#x229e; Win</kbd>+<kbd>R</kbd>
+
+Opens the windows *Run* dialog. Any text entered via the keyboard (other than inidvidual keystrokes or key combinations) will be showin in fixed width bold, **`Like this`**.
 
 #### Command input and output
 
